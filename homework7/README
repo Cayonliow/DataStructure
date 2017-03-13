@@ -1,0 +1,12 @@
+Programming Homework1
+	-read the data from the input file
+	-the first number in the first row 
+	 is the number of size  of the square matrix
+	-the row of the matrix is the in vertex 
+	-the column of the matrix id the out vertex
+
+	-the early time of the work is found by the recursive function, int early(int vertex_out)
+	-using the function to find the earlist time to start work
+	-the late time of the work is found by the recursive function, int late(int vertex_out, int vertex_in)
+	-using the function to find the lastest time to start work
+	-slack time is the difference between the early time and the late time

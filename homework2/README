@@ -1,0 +1,21 @@
+Data Structure Assignment 2
+Programming Homework 
+
+Homework 1
+	-the function required is included
+	 to determine whether is the number
+	 of array is in the generalized band
+	-2 for loops are used
+		-the working is divided into two parts 
+		which are the lower part and upper part
+	
+
+Homework2
+	-there is a large 2-D array with the maximum
+	 range included and all of the tile is markedas -1
+	 which means invalid tile to move
+	-the total steps will be count
+	-the steps needed to reach all the tile in range 
+	 is also count
+	-the range of the numbers inverted is set
+

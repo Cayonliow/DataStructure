@@ -1,0 +1,35 @@
+Data Structure Assignment 1
+Programming Homework
+
+Homework 1
+	-the recursive part is done with the function 
+	 which is return when the times of the terms multiplying
+	 is equal to the value of the terms
+	-the next term multipled will be decreased by 1
+	
+	-the iterative part is done in the main function 
+	by multiplying the next term within the while loop
+	and break when the times of the terms multiplying 
+	is equal to the value of the terms
+	-the next term multipled will be decreased by 1
+
+Homework2
+	-the program is completed by using recursion
+
+	-there are 2 functions included in the program
+		-void find(int level, int index, int n, int N)
+			-level=the number of searching
+			-index=how many elements wanted 
+			-n=the number of level wanted to be searched
+			-N=total elements included
+
+			-using the concept of combination
+			-total powersets is equal to 2^n where n
+			 is the number of elements
+
+		-void recursive(int n)
+			-n=total elements included
+
+			-search the powersets according to the number 
+			 of elements needed in ascending order by using 
+			 foor loop

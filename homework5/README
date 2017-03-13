@@ -1,0 +1,13 @@
+Programming Homework1
+	-max heap is created and is stored at the array
+	-the first element is stored at array[1]
+	-the largest value od the data will be stored at the first place(root)
+	-the parent element must be larger than the left children ad the right children
+	
+	-you can replace a number in the heap to change the priority of the heap
+	-the order of the heap will be rearranged by the function, comparetree(int n),
+	the function is recursive until all the element are arranged
+
+	-the max heap is printed out in the form similiar to the tree when all jobs are done
+
+	

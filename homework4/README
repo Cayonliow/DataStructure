@@ -1,0 +1,36 @@
+Progamming Homework1
+	-there are two types of linked list used to store the sparse matrix
+	-structure is used to create the frame of a linked list node
+	-union is used to separate two types of linked list 
+
+	-the size of the matrix is first inserted
+	-a header node is create and a header node array is dynamically declared
+	-the whole matrix is then inserted 
+	-the position of the non-zero element is recorded 
+	 and the value of the element is pointed to the corresponding header node array
+	-the whole linked list is linked together circularly
+
+	-the two linked list are multiplied together and the result is stored 
+	 into a new linked list using the method above 
+	-a pointer is used to search the non-zero element
+	-a pointer will point to next when it found one element and will stop 
+	 when it point back to the first header node of that link
+
+
+Programming Homework2
+	-there are two types of linked list used to store the sparse matrix
+	-structure is used to create the frame of a linked list node
+	-union is used to separate two types of linked list
+
+	-the size of the matrix is first inserted
+	-a header node is create and a header node array is dynamically declared
+	-the whole matrix is then inserted
+	-the position of the non-zero element is recorded
+	 and the value of the element is pointed to the corresponding header node array
+	-the whole linked list is linked together circularly
+
+	-the value of the row anf column of the position of the element are inverted
+	-a pointer is used to search the non-zero element
+	-if discovered the row and column of the non-zero element is not arranged
+	 so the missing position is 0 and print out 0 
+
